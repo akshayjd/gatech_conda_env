@@ -1,0 +1,13 @@
+name: AI
+channels:
+  - defaults
+dependencies:
+  - python=2.7.15=h1571d57_0
+  - pip:
+    - future==0.16.0
+    - matplotlib==2.0.2
+    - nelson==0.4.0
+    - networkx==1.11
+    - requests==2.13.0
+prefix: /home/akshay/anaconda3/envs/AI
+
